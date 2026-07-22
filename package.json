@@ -1,0 +1,68 @@
+{
+    "name": "matchaicsicons",
+    "displayName": ".matcha (icons)",
+    "description": "Integrated icons for an intermediate environment to Visual Studio Code",
+    "version": "0.0.4",
+    "publisher": "icontrolsystems",
+    "author": {
+        "insitution":"icontrolsystems",
+        "name": ".metsä"
+    },
+    "icon": "graphics/icslogo.png",
+    "license": "MIT",
+    "type": "commonjs",
+    "main": "./matcha.js",
+    "scripts": {
+        "compile": "tsc --project tsconfig.json"
+    },
+    "files": [
+        "graphics/",
+        "matcha.js",
+        "ics-icon-theme.json",
+        "ReadMe.md",
+        "LICENSE.md"
+    ],
+    "activationEvents": [
+        "onStartupFinished"
+    ],
+    "engines": {
+        "vscode": "^1.125.0",
+        "@types/vscode": "^1.104.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "commands": [
+        {
+            "command": ".icontrolsystems.outputics",
+            "title": "comments",
+            "arguments": [
+                "status",
+                "stio"
+            ]
+        }
+    ],
+    "contributes": {
+        "iconThemes": [
+            {
+                "id": "control",
+                "label": ".matcha",
+                "path": "./ics-icon-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ogskog/.matcha-icons-.git"
+    },
+    "devDependencies": {
+        "@types/node": "^26.1.1",
+        "@types/vscode": "^1.125.0",
+        "@vscode/debugadapter": "^1.68.0",
+        "@vscode/vsce": "^3.9.2",
+        "archiver": "^8.0.0",
+        "typescript": "^6.0.3",
+        "vsce": "^2.15.0",
+        "vscode": "^1.1.37"
+    }
+}
