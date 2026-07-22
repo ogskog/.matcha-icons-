@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.9.6, SVG Export Plug-In . SVG Version: 9.03 Build 54986)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
+<style type="text/css">
+	:root{ --zero:rgba(0,0,0,0); --first:rgba(57,120,121,0.9); --second:rgba(158, 187 ,22, 0.9); --third:rgba(255, 255, 255, 0.7); }
+	.st0{ fill:var(--zero); }
+	.st1{ fill:var(--second); }
+	.st2{ stroke:var(--third); }
+</style>
+<defs>
+	<g class="st0">
+		<polygon class="st0" points="7.4,18.7 18.3,11.3 18.3,14.7 10.1,20.1 18.3,25.4 18.3,28.9 7.4,21.4 "/>
+	</g>
+	<g id="st1" class="st">
+		<polygon class="st1" points="24.6,14 13.7,21.4 13.7,17.8 22,12.5 13.7,7.2 13.7,3.6 24.6,11.1 "/>
+	</g>
+</defs>
+
+<g id="" stroke-width="20">
+	<path id="" class="st2" d="
+		M 0 0 M 3 14 L 7, 14
+	" />
+</g>
+<use href="#st1" x="-2" y="1.4" />
+</svg>

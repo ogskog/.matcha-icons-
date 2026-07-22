@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.0" viewBox="0 0 900 600" width="900" heigth="600" id="musical" standalone="yes">
+    <metadata>
+    created by .metsa
+    </metadata>
+    <g class="sheet" id="bar" fill="" stroke="#f5f8e7" stroke-width="2mm" >
+        <path class="" id="clef bar" d="
+            M 0 0
+            m 0,0 
+            l 0,600
+        z "/>
+    <g class="staff" id="" fill="" stroke="#f5f8e700" stroke-width="1mm" >
+        <path class="staff" id="" d="
+            M 0 0
+            M 0 100 L 900 100 Z
+            M 0 200 L 900 200 Z
+            M 0 300 L 900 300 Z
+            M 0 400 L 900 400 Z
+            M 0 500 L 900 500 Z
+        " />
+    <g class="sheet" id="note" fill="" stroke="" stroke-width="" >
+        <path class="" id="border" d="
+            M 450 300
+            m -180,0
+            a 180, 120 0, 0, 0, 360, 0
+            a 180, 120 0, 0, 0, -360, 0
+            M 380 300
+            m -20,0
+            a 60, 40 45, 0, 0, 180, 0
+            a 60, 40 45, 0, 0, -180, 0
+            z
+        " fill="#f5f8e7ff" stroke="#f5f8e700" stroke-width="2mm"  fill-rule="evenodd" transform="skewY(0)" />
+    </g>
+    </g>
+        <path class="" id="first bar" d="
+            M 900 0
+            L 900,600
+        z "/>
+    </g>
+</svg>

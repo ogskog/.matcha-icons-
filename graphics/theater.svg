@@ -1,0 +1,41 @@
+            <svg xmlns="http://www.w3.org/2000/svg" version="1.0" class="ico" id="" x="444" y="404" viewBox="10 -12 100 100" width="100" height="100" onclick="" > 
+                <g class="ico" id="" stroke="#f5f8e7ff" >
+                    <!--rect class="theater" id="" x="30" y="12" rx="4" ry="8" width="60" height="50" fill="var(void)" stroke-width="0.3mm" /-->
+                    <g class="theater" id="movie" stroke="#f5f8e7ff" > 
+                        <ellipse class="" id="" cx="50" cy="31" rx="4" ry="4" fill="rgba(255,0,0,0.7)" stroke-width="0.0mm"/>
+                        <path class="" id="" d="
+                            M 40 38
+                            m 20, 0
+                            a 15, 15, 0, 0, 1, -20, 0
+                            M 60 38
+                            m 20, 0
+                            a 15, 15, 0, 0, 0, -20, 0
+                            M 40 43 
+                            m 20, 0
+                            a 15, 15, 0, 0, 1, -20, 0
+                            M 60 43
+                            m 20, 0
+                            a 15, 15, 0, 0, 0, -20, 0" 
+                            fill="#88aa1100" stroke-width="0.5mm" />
+                    </g>
+                    
+                    <g class="theater" id="52" fill="rgba(158,187,22,1)" stroke="rgba(158,187,22,0)">
+                        <ellipse class="" id="" cx="30" cy="17" rx="2" ry="2" stroke-width="0.1mm"/>
+                        <ellipse class="" id="" cx="40" cy="17" rx="2" ry="2" stroke-width="0.1mm"/>
+                        <ellipse class="" id="" cx="50" cy="17" rx="2" ry="2" stroke-width="0.1mm"/>
+                        <ellipse class="" id="" cx="60" cy="17" rx="2" ry="2" stroke-width="0.1mm"/>
+                        <ellipse class="" id="" cx="70" cy="17" rx="2" ry="2" stroke-width="0.1mm"/>
+                        <ellipse class="" id="" cx="80" cy="17" rx="2" ry="2" stroke-width="0.1mm"/>
+                        <ellipse class="" id="" cx="90" cy="17" rx="2" ry="2" stroke-width="0.1mm"/>
+
+                        <rect class="theater" id="" x="32" y="22" cx="3" cy="6" width="56" height="30" fill="#f5f8e700" stroke="#f5f8e7ff00" stroke-width="0.1mm" />
+
+                        <ellipse class="" id="" cx="30" cy="57" rx="2" ry="2" stroke-width="0.1mm"/>
+                        <ellipse class="" id="" cx="40" cy="57" rx="2" ry="2" stroke-width="0.1mm"/>
+                        <ellipse class="" id="" cx="50" cy="57" rx="2" ry="2" stroke-width="0.1mm"/>
+                        <ellipse class="" id="" cx="60" cy="57" rx="2" ry="2" stroke-width="0.1mm"/>
+                        <ellipse class="" id="" cx="70" cy="57" rx="2" ry="2" stroke-width="0.1mm"/>
+                        <ellipse class="" id="" cx="80" cy="57" rx="2" ry="2" stroke-width="0.1mm"/>
+                        <ellipse class="" id="" cx="90" cy="57" rx="2" ry="2" stroke-width="0.1mm"/>
+                    </g>
+            </g></svg>

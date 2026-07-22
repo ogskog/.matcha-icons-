@@ -1,0 +1,70 @@
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" id="page icon"  width="1280.000000pt" height="1280.000000pt" viewBox="0 0 1280.000000 1280.000000">
+   <metadata> Created by Integrated Control Systems, designed by .metsa - 3/14/2022 - http://www.icontrolsystems.net/ </metadata>
+   <desc>
+      help:  
+         1> vary colors
+         2> vary inside diagram
+         3> prompt should blink
+         4> ad logo
+         5> variations
+            a. text-size = 27em (default), 21 em;
+            b. add all document types;
+         6> cirle for tab (built)
+
+      document types:
+         Text(.txt), ReadMe(.md), [ .html .htm .xml ], .java, [ .c .cs .cpp ], .class, .dll, [ .bat .sh ,ps1 ]
+         .svg  .png  .jpg  .jpeg   .gif  .bmp  .ai  .psd  .pdf  .wav  .m4a  .npeg  .mov
+         .js  .json  .ts  .css  .yaml  .dtd  .xsl  .csproj  .h
+   </desc>
+   <script>
+      //console.log("use temporarily");
+      /*
+      document.addEventListener("DOMContentLoaded", function(event) {
+         document.getElementsByTagName("text")[0].textContent = ".JS";
+         console.log(document.getElementsByTagName("text")[0].textContent);
+      });
+      */
+      //for css    :root  { filter: brightness(1); --zero: rgba(000, 000, 000, 0.0); --first: rgba( 057,120,121,1); --second:rgba(158, 187 ,22, 1.0); --third:rgba(155, 155, 155, 1.0); --fourth: rgba(055,055,055, 1); --fifth: rgba(255, 000, 000, 0.3); --sixth: #9EBB1633; background: var(--sixth); }
+   </script>
+   <style>
+      line{stroke: rgba(0, 0, 0, 0.5); stroke-width: .5em;} circle{fill:rgba(158, 187 ,22, .7);}
+      text{font-family: Verdana; font-weight: 600; font-size: 17em; fill: rgba(255, 0, 0, .7);}
+   </style>
+      <!--g transform="translate(0.000000,1280.000000) scale(0.100000,-0.100000)" fill="#000000" stroke="none">   </g>  -->
+
+      <rect x="120" y="80" rx="120" ry="120" width="750" height="1000" style="fill:rgba(158,157,122,.5);stroke:rgba(0, 0, 0, 1);stroke-width:25;opacity:0.4" />
+
+      <line x1="240" y1="230" x2="740" y2="230" />
+      <line x1="240" y1="280" x2="740" y2="280" />
+      <line x1="240" y1="330" x2="740" y2="330" />
+      <line x1="240" y1="380" x2="740" y2="380" />
+      <line x1="240" y1="430" x2="740" y2="430" />
+      <line x1="240" y1="480" x2="740" y2="480" />
+      <line x1="240" y1="530" x2="740" y2="530" />
+      <line x1="240" y1="580" x2="740" y2="580" />
+      <line x1="240" y1="630" x2="740" y2="630" />
+      <line x1="240" y1="680" x2="740" y2="680" />
+      <line x1="240" y1="730" x2="740" y2="730" />
+      <line x1="240" y1="780" x2="740" y2="780" />
+      <line x1="240" y1="830" x2="740" y2="830" />
+      <line x1="240" y1="880" x2="740" y2="880" />
+      <line x1="240" y1="930" x2="740" y2="930" />
+
+      <circle cx="240" cy="200" r="100" />
+
+      <text x="270" y="1100">.yaml</text>
+
+   <script>
+      //document.getElementsByTagName("text")[0].textContent = ".JS";
+      const path = document.getElementsByTagName("circle")[0];
+      const bbox = path.getBBox();
+
+      const cX = bbox.x + bbox.width / 2;
+      const cY = bbox.y + bbox.height / 2;
+      //Center: 
+      //console.log("Center:", cX, cY, bbox.width, bbox.height);
+      path.setAttribute("transform", `translate(${cX}, ${cY}) scale(0.5) translate(${-cX}, ${-cY})`);
+   </script>
+
+</svg>
+          

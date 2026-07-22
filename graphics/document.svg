@@ -1,0 +1,91 @@
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" id="page icon"  width="1280.000000pt" height="1280.000000pt" viewBox="0 0 1280.000000 1280.000000">
+   <metadata> Created by Integrated Control Systems, designed by Ralph Clark - 3/14/2022 - http://www.icontrolsystems.net/ </metadata>
+   <desc>
+      help:  
+         1> vary colors
+         2> vary inside diagram
+         3> prompt should blink
+         4> ad logo
+         5> variations
+            a. text-size = 27em (default), 21 em;
+            b. add all document types;
+         6> cirle for tab (built)
+
+      document types:
+         Text(.txt), ReadMe(.md), [ .html .htm .xml ], .java, [ .c .cs .cpp ], .class, .dll, [ .bat .sh ,ps1 ]
+         .svg  .png  .jpg  .jpeg   .gif  .bmp  .ai  .psd  .pdf  .wav  .m4a  .npeg  .mov
+         .js  .json  .ts  .css  .ymal  .dtd  .xsl  .csproj  .h
+   </desc>
+   <script>
+      //console.log("use temporarily");
+      /*
+      document.addEventListener("DOMContentLoaded", function(event) {
+         document.getElementsByTagName("text")[0].textContent = ".JS";
+         console.log(document.getElementsByTagName("text")[0].textContent);
+      });
+      */
+      //for css    :root  { filter: brightness(1); --zero: rgba(000, 000, 000, 0.0); --first: rgba( 057,120,121,1); --second:rgba(158, 187 ,22, 1.0); --third:rgba(155, 155, 155, 1.0); --fourth: rgba(055,055,055, 1); --fifth: rgba(255, 000, 000, 0.3); --sixth: #9EBB1633; background: var(--sixth); }
+   </script>
+   <style>
+      line{stroke: rgba(157,158,122,.4); stroke-width: 5em;}
+      text{font-family: Verdana; font-weight: 600; font-size: 27em; fill: rgba(0, 0, 0, .5);}
+      circle{fill:rgba(158,187,22,0.4);} #st0{fill:rgba(157,158,122,.4);} #st1{fill:rgba(158, 187, 22, .8);} #st2{fill:rgba(157,158,122,.4);} #st3{fill:rgba(57,120,121,.8); } #st4{fill:rgba(155,155,155,.5);} 
+   </style>
+   <!--g transform="translate(0.000000,1280.000000) scale(0.100000,-0.100000)" fill="#000000" stroke="none">   </g>  -->
+
+   <!--rect id="password" x="10" y="10" rx="4" ry="8" width="80" height="60" style="fill:#00000000;stroke:black;stroke-width:2;opacity:1.0" />
+   <path d="M 80 40 A100 200, 0, 0, 0, 30 40 " fill="none" stroke="black" stroke-width="2" />
+   <path d="M 65 34 A10 10, 0, 0, 0, 45 34 " fill="none" stroke="black" stroke-width="2" />
+   <rect id="" x="22" y="45" rx="1" ry="1" width="60" height="15" style="fill:none;stroke:#000000;stroke-width:1;" />
+   <rect id="" x="25" y="50" rx="0" yx="0" width="4" height="4" style="fill:black;" />
+   <text id="code" x="35"  y="74"   fill="#000000" font-family="Impact" font-size="2em">*****</text-->
+
+   <rect x="80" y="80" rx="120" ry="120" width="750" height="1000" style="fill:yellow;stroke:black;stroke-width:25;opacity:0.5" />
+
+   <line x1="200" y1="230" x2="700" y2="230" style="stroke:black;stroke-width:5; opacity:0.5" />
+   <line x1="200" y1="280" x2="700" y2="280" style="stroke:black;stroke-width:5; opacity:0.5" />
+   <line x1="200" y1="330" x2="700" y2="330" style="stroke:black;stroke-width:5; opacity:0.5" />
+   <line x1="200" y1="380" x2="700" y2="380" style="stroke:black;stroke-width:5; opacity:0.5" />
+   <line x1="200" y1="430" x2="700" y2="430" style="stroke:black;stroke-width:5; opacity:0.5" />
+   <line x1="200" y1="480" x2="700" y2="480" style="stroke:black;stroke-width:5; opacity:0.5" />
+   <line x1="200" y1="530" x2="700" y2="530" style="stroke:black;stroke-width:5; opacity:0.5" />
+   <line x1="200" y1="580" x2="700" y2="580" style="stroke:black;stroke-width:5; opacity:0.5" />
+   <line x1="200" y1="630" x2="700" y2="630" style="stroke:black;stroke-width:5; opacity:0.5" />
+   <line x1="200" y1="680" x2="700" y2="680" style="stroke:black;stroke-width:5; opacity:0.5" />
+   <line x1="200" y1="730" x2="700" y2="730" style="stroke:black;stroke-width:5; opacity:0.5" />
+   <line x1="200" y1="780" x2="700" y2="780" style="stroke:black;stroke-width:5; opacity:0.5" />
+   <line x1="200" y1="830" x2="700" y2="830" style="stroke:black;stroke-width:5; opacity:0.5" />
+   <line x1="200" y1="880" x2="700" y2="880" style="stroke:black;stroke-width:5; opacity:0.5" />
+   <line x1="200" y1="930" x2="700" y2="930" style="stroke:black;stroke-width:5; opacity:0.5" />
+
+   <!--text id="" x="500"  y="1040"   fill="#000000" font-family="Impact" font-size="7em">.TXT</text>
+   <text id="" x="500"  y="1040"   fill="#000000" font-family="Impact" font-size="7em">.RTF</text>
+   <text id="" x="500"  y="1040"   fill="#000000" font-family="Impact" font-size="7em">.JS</text>
+   <text id="" x="500"  y="1040"   fill="#000000" font-family="Impact" font-size="7em">.JAVA</text>
+   <text id="" x="500"  y="1040"   fill="#000000" font-family="Impact" font-size="7em">.PDF</text>
+   <text id="" x="500"  y="1040"   fill="#000000" font-family="Impact" font-size="7em">.###</text>
+   <text id="" x="500"  y="1040"   fill="#000000" font-family="Impact" font-size="7em">.###</text>
+   <text id="" x="500"  y="1040"   fill="#000000" font-family="Impact" font-size="7em">.###</text>
+   <text id="" x="500"  y="1040"   fill="#000000" font-family="Impact" font-size="7em">.###</text-->
+   <text id="" x="500"  y="1040"   fill="#000000" font-family="Impact" font-size="7em">.###</text>
+   
+   <!-- graphic documnents
+   <rect id="st4" x="120" y="175" rx="120" ry="1070" width="100" height="900" />
+   <circle id="st0" cx="500" cy="400" r="200" />
+   <circle id="st1" cx="750" cy="660" r="200" />
+   <circle id="st2" cx="700" cy="400" r="200" />
+   <circle id="st3" cx="500" cy="800" r="200" /-->
+   
+   <script>
+      //document.getElementsByTagName("text")[0].textContent = ".dog";
+      const path = document.getElementsByTagName("circle")[0];
+      const bbox = path.getBBox();
+
+      const cX = bbox.x + bbox.width / 2;
+      const cY = bbox.y + bbox.height / 2;
+      //Center: 
+      //console.log("Center:", cX, cY, bbox.width, bbox.height);
+      path.setAttribute("transform", `translate(${cX}, ${cY}) scale(0.5) translate(${-cX}, ${-cY})`);
+   </script>
+</svg>
+          

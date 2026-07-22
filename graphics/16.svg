@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.0" viewBox="0 0 900 600" width="900" heigth="600" id="musical" standalone="yes">
+    <metadata>
+    created by .metsa
+    </metadata>
+    <g class="sheet" id="bar" fill="" stroke="#f5f8e7" stroke-width="0mm" >
+        <path class="" id="clef bar" d="
+            M 0 0
+            m 0,0 
+            l 0,600
+        z "/>
+    <g class="note" id="" fill="#f5f8e7ff" stroke="#f5f8e7ff" stroke-width="" >
+            <path class="note" id="2" d="
+            M 1690 1130
+            m -180 0
+        z " />
+        <path class="note" id="1/4" d="
+            M 1690 1130
+            m -180,0
+            a 180, 120 0, 0, 0, 360, 0
+            a 180, 120 0, 0, 0, -360, 0
+            M 1620 1130
+            m -20,0
+            a 60, 40 45, 0, 0, 180, 0
+            a 60, 40 45, 0, 0, -180, 0
+        z" fill="#f5f8e7ff" stroke="#f5f8e700" stroke-width="2mm"  fill-rule="even" transform="scale(.4)" />
+        <path class="note" id="quarter" d="
+            M 743 450 L 745 100 Z
+        " fill="#f5f8e700" stroke="#f5f8e7ff" stroke-width="3mm" />
+        <path class="note" id="hold" d="
+            M 450 128.3 L 742 128.3 Z
+        " stroke-width="15mm" />
+        <path class="note" id="1/8" d="
+            M 955 1130
+            m -180,0
+            a 180, 120 0, 0, 0, 360, 0
+            a 180, 120 0, 0, 0, -360, 0
+            M 885 1130
+            m -20,0
+            a 60, 40 45, 0, 0, 180, 0
+            a 60, 40 45, 0, 0, -180, 0
+        z" fill="#f5f8e7ff" stroke="#f5f8e700" stroke-width="2mm"  fill-rule="even" transform="scale(.4)" />
+        <path class="note" id="eight" d="
+            M 450 450 L 450 100 Z
+        " fill="#f5f8e700" stroke="#f5f8e7ff" stroke-width="3mm" />
+    </g>
+        <path class="" id="first bar" d="
+            M 900 0
+            L 900,600
+        z "/>
+    </g>
+</svg>

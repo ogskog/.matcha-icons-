@@ -1,0 +1,15 @@
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" id="page icon"  width="1280.000000pt" height="1280.000000pt" viewBox="0 0 1280.000000 1280.000000">
+   <metadata> designed by .metsa - 3/14/2022 </metadata>
+   <style>
+      line{stroke: rgba(0, 0, 0, 0.5); stroke-width: .5em;}
+      text{font-family: Verdana; font-weight: 600; font-size: 27em; fill: rgba(0, 0, 0, .5);}
+      circle{fill:rgba(158,187,22,0.4);}
+   </style>
+
+      <rect x="120" y="80" rx="120" ry="120" width="750" height="1000" style="fill:rgba(0,0,0,.3);stroke:rgba(0, 0, 0, 1);stroke-width:25;opacity:0.4" />
+      <circle cx="400" cy="500" r="100" />
+      <circle cx="500" cy="600" r="100" />
+      <circle cx="600" cy="500" r="100" />
+      <circle cx="400" cy="700" r="100" />
+</svg>
+          

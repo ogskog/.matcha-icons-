@@ -1,0 +1,44 @@
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" id="page icon"  width="1280.000000pt" height="1280.000000pt" viewBox="0 0 1280.000000 1280.000000">
+   <metadata> Created by Integrated Control Systems, designed by Ralph Clark - 3/14/2022 - http://www.icontrolsystems.net/ </metadata>
+   <desc>
+      help:  
+         1> vary colors
+         2> vary inside diagram
+         3> prompt should blink
+         4> ad logo
+   </desc>
+   <style>
+      .lines{stroke: rgba(57,120,121,1);}
+   </style>
+   <!--g transform="translate(0.000000,1280.000000) scale(0.100000,-0.100000)" fill="#000000" stroke="none">   </g>  -->
+
+   <rect x="80" y="80" rx="120" ry="120" width="750" height="1000" style="fill:rgba(190,190,190, 0.0);stroke:rgba(57,120,121,1);stroke-width:50;" />
+
+   <line class="lines" x1="200" y1="230" x2="700" y2="230" style="stroke-width:15;" />
+   <!--line class="lines" x1="200" y1="280" x2="700" y2="280" style="stroke-width:5;" /-->
+   <!--line class="lines" x1="200" y1="330" x2="700" y2="330" style="stroke-width:5;" /-->
+   <!--line class="lines" x1="200" y1="380" x2="700" y2="380" style="stroke-width:5;" /-->
+   <line class="lines" x1="200" y1="430" x2="700" y2="430" style="stroke-width:15;" />
+   <!--line class="lines" x1="200" y1="480" x2="700" y2="480" style="stroke-width:5;" /-->
+   <!--line class="lines" x1="200" y1="530" x2="700" y2="530" style="stroke-width:5;" /-->
+   <!--line class="lines" x1="200" y1="580" x2="700" y2="580" style="stroke-width:5;" /-->
+   <line class="lines" x1="200" y1="630" x2="700" y2="630" style="stroke-width:15;" />
+   <!--line class="lines" x1="200" y1="680" x2="700" y2="680" style="stroke-width:5;" /-->
+   <!--line class="lines" x1="200" y1="730" x2="700" y2="730" style="stroke-width:5;" /-->
+   <!--line class="lines" x1="200" y1="780" x2="700" y2="780" style="stroke-width:5;" /-->
+   <line class="lines" x1="200" y1="830" x2="700" y2="830" style=";stroke-width:15;" />
+   <!--line class="lines" x1="200" y1="880" x2="700" y2="880" style="stroke-width:5;" /-->
+   <!--<line class="lines" x1="200" y1="930" x2="700" y2="930" style="stroke-width:5;" /-->
+
+   <!-- text id="txt" x="230"  y="1040"   fill="rgba(255,0,0,0.8)" opacity ="0.5" font-family="Verdana" font-weight="600" font-size="27em">TXT</text -->
+   <!--text id="rtf" x="230"  y="1040"   fill="rgb(0, 175, 60)" opacity ="0.5" font-family="Verdana" font-weight="600" font-size="27em">RTF</text-->
+   <!--text id="JS" x="500"  y="1040"   fill="rgb(0, 0, 0)" opacity ="0.5" font-family="Verdana" font-weight="600" font-size="27em">JS</text-->
+   <!--text id="" x="500"  y="1040"   fill="#000000" font-family="Impact" font-size="7em">.JAVA</text-->
+   <!--text id="" x="230"  y="1040"   fill="rgb(0, 0, 0)" opacity ="0.5" font-family="Verdana" font-weight="600" font-size="27em">PDF</text-->
+   <text id="skog" x="230"  y="1040"   fill="rgba(57,120,121,1)" font-family="Verdana" font-weight="600" font-size="21em">.skog</text>
+   <!--text id="" x="500"  y="1040"   fill="#000000" font-family="Impact" font-size="7em">.###</text>
+   <text id="" x="500"  y="1040"   fill="#000000" font-family="Impact" font-size="7em">.###</text>
+   <text id="" x="500"  y="1040"   fill="#000000" font-family="Impact" font-size="7em">.###</text>
+   <text id="" x="500"  y="1040"   fill="#000000" font-family="Impact" font-size="7em">.###</text-->
+</svg>
+          
